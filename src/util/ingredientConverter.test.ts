@@ -1,4 +1,4 @@
-import { cupsToGrams } from "./calcs";
+import { cupsToGrams } from "./ingredientConverter";
 
 describe("cupsToGrams", () => {
   it("should give the weight of two cups of flour in grams correctly", () => {
